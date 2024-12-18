@@ -162,7 +162,8 @@ def main():
        "Wat zijn de verantwoordelijkheden van de opdrachtgever bij het verstrekken van informatie en documenten?",
        "Hoe moet een aannemer omgaan met wijzigingen in het werk of meerwerkclaims volgens de UAV-GC 2005",
        "Welke gevolgen heeft het als de aannemer vertraging oploopt, en hoe kan een termijnverlenging worden aangevraagd?",
-       "Hoe wordt het risico verdeeld tussen opdrachtgever en aannemer volgens de UAV-GC 2005?"
+       "Hoe wordt het risico verdeeld tussen opdrachtgever en aannemer volgens de UAV-GC 2005?",
+       "emer volgens de UAV-GC 2005?",
     ]
 
     def standard_question_click(question):
