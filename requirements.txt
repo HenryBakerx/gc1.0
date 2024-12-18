@@ -1,0 +1,11 @@
+wheel
+pillow
+streamlit
+python-dotenv
+PyPDF2
+langchain
+openai
+faiss-cpu
+tiktoken
+langchain-community
+langchain-openai
